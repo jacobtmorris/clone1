@@ -1,0 +1,20 @@
+/*{
+    outline: 1px solid red
+}*/
+
+/* HELPERS */
+
+.special-blue{
+background-color: rgb(60,141,188);
+color: white;
+}
+.title-row{
+    padding-bottom: 25px;
+    padding-top: 25px;
+    background-color:  rgb(60,141,188);
+}
+
+.black{
+    background: black;
+    color: white;
+}
